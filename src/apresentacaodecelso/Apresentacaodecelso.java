@@ -15,6 +15,7 @@ public class Apresentacaodecelso {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("Bomdia");
         // TODO code application logic here
     }
     
